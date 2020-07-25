@@ -1,0 +1,20 @@
+{
+  "short_name": "WebShot",
+  "name": "WebShot",
+  "manifest_version": 2,
+  "description": "take screenshot of full web page you can take by providing url of webpage or take current webpage screenshot",
+  "version": "0.0.1",
+  "author": {
+    "name": "Zahid Ali",
+    "email": "engrzahid612@gmail.com",
+    "url": "https://twitter.com/ZahidAl94440892"
+  },
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "WebShot",
+    "default_icon": "logo192.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
