@@ -15,7 +15,7 @@ or you can enter url of the webpage to take screenshot.
 
 ## Preview
 
-[![Watch the video](https://i.ytimg.com/vi/BNuwq6LwkC4/hqdefault.jpg)](https://www.youtube.com/watch?v=BNuwq6LwkC4)
+[![Watch the video]https://i.ibb.co/n18M1Qg/Annotation-2020-07-26-050353.png)](https://www.youtube.com/watch?v=BNuwq6LwkC4)
 
 
 ## Installation
