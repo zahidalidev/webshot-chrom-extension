@@ -15,7 +15,7 @@ or you can enter url of the webpage to take screenshot.
 
 ## Preview
 
-![preview](https://youtu.be/BNuwq6LwkC4)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/BNuwq6LwkC4)
 
 ## Installation
 
