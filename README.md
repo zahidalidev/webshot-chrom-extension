@@ -3,7 +3,7 @@
 
 <div align="center">
 	<h1>WebShot (Chrome Extension)<br>
-	<img alt="version: 0.0.1" src="https://img.shields.io/badge/version-v1.6.2-green">
+	<img alt="version: 0.0.1" src="https://img.shields.io/badge/version-v0.0.1-green">
 	</h1>
 </div>
 
@@ -15,7 +15,7 @@ or you can enter url of the webpage to take screenshot.
 
 ## Preview
 
-![Preview](https://gfycat.com/composedbelatedbarnswallow)
+![Preview](https://gfycat.com/composedbelatedbarnswallow.gif)
 
 ## Installation
 
