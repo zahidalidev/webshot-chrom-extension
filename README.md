@@ -15,7 +15,7 @@ or you can enter url of the webpage to take screenshot.
 
 ## Preview
 
-https://gfycat.com/composedbelatedbarnswallow.gif
+![preview](https://s7.gifyu.com/images/webshot-recorded-video.gif)
 
 ## Installation
 
