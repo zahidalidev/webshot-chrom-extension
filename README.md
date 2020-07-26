@@ -21,7 +21,7 @@ or you can enter url of the webpage to take screenshot.
 
 For now, you can install it manually following these simple steps:
 
-- Download the extension from [here](https://github.com/ahmadbilaldev/Survey-Filler/archive/master.zip).
+- Download the extension from [here](https://github.com/zahidalidev/webshot-chrom-extension/archive/master.zip).
 
 - Unzip it.
 
