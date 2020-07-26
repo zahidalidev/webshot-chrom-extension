@@ -15,7 +15,9 @@ or you can enter url of the webpage to take screenshot.
 
 ## Preview
 
-<a href="https://gifyu.com/image/WI8l"><img src="https://s7.gifyu.com/images/webshot-recorded-video.gif" alt="webshot-recorded-video.gif" border="0" /></a>
+<div align="center">
+	<img alt="version: 0.0.1" src="https://s7.gifyu.com/images/webshot-recorded-video.gif">
+</div>
 
 ## Installation
 
