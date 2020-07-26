@@ -15,7 +15,7 @@ or you can enter url of the webpage to take screenshot.
 
 ## Preview
 
-![Preview]https://gfycat.com/composedbelatedbarnswallow.gif
+https://gfycat.com/composedbelatedbarnswallow.gif
 
 ## Installation
 
