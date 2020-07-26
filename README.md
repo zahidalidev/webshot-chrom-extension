@@ -15,7 +15,7 @@ or you can enter url of the webpage to take screenshot.
 
 ## Preview
 
-[![Watch the video](https://i.ytimg.com/vi/BNuwq6LwkC4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCs-kOddCU1e_iGVZn6RlxEvAnxYg)](https://www.youtube.com/watch?v=BNuwq6LwkC4)
+[![Watch the video](https://i.ytimg.com/vi/BNuwq6LwkC4/hqdefault.jpg)](https://www.youtube.com/watch?v=BNuwq6LwkC4)
 
 
 ## Installation
